@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 
 
-video_path = r"C:\Users\aldawlia\Desktop\New folder\nnm.mp4"
+video_path = r""
 model = YOLO("yolov8n.pt")
 
 distance_threshold = 50          # pixels (for ID matching)
